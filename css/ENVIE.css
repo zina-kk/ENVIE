@@ -14,7 +14,7 @@ header {display: flex; align-items: center; padding: 10px;}
 
 header nav:first-child {flex: 2; display: flex; align-items: center;}
 
-header nav:last-child {flex: 1;text-align: right;}
+header nav:last-child {flex: 1;text-align: right; background:yellow;}
 
 header button {background: none; border: none; padding: 5px;}
 
